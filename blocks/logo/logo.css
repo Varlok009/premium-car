@@ -1,0 +1,8 @@
+@import url(./__card/logo__card.css);
+
+.logo {
+    margin: 0;
+    font-size: 14px;
+    line-height: 18px;
+    font-weight: normal;
+}

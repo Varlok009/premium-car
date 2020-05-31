@@ -1,0 +1,7 @@
+.page {
+    display: flex;
+    flex-direction: column;
+    min-width: 1550px;
+    max-width: 1920px;
+    margin: 0 auto;
+}

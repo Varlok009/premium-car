@@ -1,0 +1,7 @@
+.header__content {
+    min-width: 1550px;
+    max-width: 1700px;
+    display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

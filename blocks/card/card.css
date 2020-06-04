@@ -1,0 +1,14 @@
+@import url(./_position/card_position_img-article-block.css);
+@import url(./_position/card_position_big-post.css);
+@import url(./_position/card_position_small-post-most-popular.css);
+@import url(./_position/card_position_small-post-popular-post.css);
+
+.card {
+    background-color: #4A90E2;
+    border-radius: 3px;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    color: white;
+    margin: 0;
+}

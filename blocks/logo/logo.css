@@ -1,7 +1,8 @@
 @import url(./__card/logo__card.css);
+@import url(./_place/logo_place_header.css);
+@import url(./_place/logo_place_footer.css);
 
 .logo {
-    margin: 0;
     font-size: 14px;
     line-height: 18px;
     font-weight: normal;

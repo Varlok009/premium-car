@@ -1,0 +1,14 @@
+
+
+.big-button_place_instagram {
+    text-decoration: none;
+    margin: 0 0 0 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.big-button_place_instagram:hover {
+    border: 2px solid #4A90E2;
+    margin: -2px;
+}

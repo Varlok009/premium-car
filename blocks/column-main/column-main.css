@@ -1,0 +1,5 @@
+.column-main {
+    width: 770px;
+    display: flex;
+    flex-direction: column;
+}

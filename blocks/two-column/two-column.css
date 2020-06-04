@@ -1,0 +1,6 @@
+@import url(./_margin/two-column_margin_top.css);
+
+.two-column {
+    display: flex;
+    justify-content: space-between;       
+}

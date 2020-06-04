@@ -1,0 +1,14 @@
+@import url(../big-button/_place/big-button_place_bloger-annotation.css);
+@import url(../big-button/_place/big-button_place_instagram.css);
+@import url(../big-button/_place/big-button_place_newsletter.css);
+
+.big-button {
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 18px;
+    color: white;
+    background: #232323;
+    border-radius: 5px;
+    padding: 15px 0;
+    border: 0;
+}

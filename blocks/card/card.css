@@ -1,8 +1,3 @@
-@import url(./_position/card_position_img-article-block.css);
-@import url(./_position/card_position_big-post.css);
-@import url(./_position/card_position_small-post-most-popular.css);
-@import url(./_position/card_position_small-post-popular-post.css);
-
 .card {
     background-color: #4A90E2;
     border-radius: 3px;
@@ -11,4 +6,7 @@
     line-height: 16px;
     color: white;
     margin: 0;
+    width: 60px;
+    text-align: center;
+    padding: 4px 0 2px;
 }

@@ -6,6 +6,7 @@
 @import url(./_margin/instagram_margin_top.css);
 @import url(./__icon/instagram__icon.css);
 @import url(./__pic/_border/instagram__pic_border.css);
+@import url(./__big-button/instagram__big-button.css);
 
 .instagram {
     display: flex;

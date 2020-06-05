@@ -3,12 +3,11 @@
 @import url(./__pic/row-post__pic.css);
 @import url(./__subtitle/row-post__subtitle.css);
 @import url(./__title/row-post__title.css);
-@import url(./_margin/row-post_margin_top.css);
 
 .row-post {
     width: 295px;
     display: flex;
     justify-content: space-between;
-    padding-right: 5px;   
+    padding-right: 5px;
 }
 

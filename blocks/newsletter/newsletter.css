@@ -4,7 +4,7 @@
 @import url(./__subtitle/newsletter__subtitle.css);
 @import url(./_place/newsletter_place_column-side.css);
 @import url(./_place/newsletter_place_footer.css);
-@import url(./__name/_margin/newsletter__name_margin_top.css);
+@import url(./__big-button/newsletter__big-button.css);
 
 .newsletter {
     display: flex;

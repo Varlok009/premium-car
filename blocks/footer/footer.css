@@ -4,7 +4,11 @@
 @import url(./__text/footer__text.css);
 @import url(./__top-row/footer__top-row.css);
 @import url(./__bottom-row-content/footer__bottom-row-content.css);
-@import url(./_margin/footer_margin_top.css);
+@import url(./__newsletter/footer__newsletter.css);
+@import url(./__logo/footer__logo.css);
+@import url(./__social-links/footer__social-links.css);
+@import url(./__recent-posts/footer__recent-posts.css);
+
 
 .footer {
     display: flex;

@@ -5,7 +5,8 @@
     background: #FFFFFF;
     border: 1px solid #E5E5E5;
     box-sizing: border-box;
-    border-radius: 3px;          
+    border-radius: 3px; 
+    padding: 15px 10px;         
 }
 
 .newsletter__name::placeholder {
@@ -13,5 +14,4 @@
     font-size: 14px;
     line-height: 18px;
     color: #AEB3BB;
-    padding-left: 15px;
 }

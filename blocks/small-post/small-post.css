@@ -3,8 +3,7 @@
 @import url(./__post/small-post__post.css);
 @import url(./__subtitle/small-post__subtitle.css);
 @import url(./__title/small-post__title.css);
-@import url(./_place/small-post_place_popular-posts.css);
-@import url(./_place/small-post_place_most-popular.css);
+@import url(./__card/small-post__card.css);
 @import url(./_shadow/small-post_shadow.css);
 
 .small-post {

@@ -1,5 +1,6 @@
 .recent-posts_shadow {
-      
+    box-sizing: border-box;
+    border-radius: 5px;      
 }
 
 .recent-posts_shadow:hover {
